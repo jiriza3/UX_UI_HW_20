@@ -1,5 +1,12 @@
 {
-
+	"folders": [
+		{
+			"path": "../../Activities/Bootstrap_Customize/Solved"
+		},
+		{
+			"path": "."
+		}
+	],
 	"settings": {
 		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_20"
 	}
